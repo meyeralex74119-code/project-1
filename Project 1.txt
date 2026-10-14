@@ -1,0 +1,33 @@
+<header>
+<div>
+-flexContainer
+-flexItem
+<nav>
+</header>
+<button>
+<main>
+<section>
+<form>
+<footer>
+#id - jump href
+
+<h1>
+<h2>
+<h3>
+<a
+<strong>
+<p>
+
+<ul>
+<a href="">
+
+CSS
+
+display; inline-block
+list-style-type:none
+border-radius:
+.circle(
+bord
+)
+
+.welcomeHeading
